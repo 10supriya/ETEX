@@ -1,0 +1,6 @@
+rootProject.name = 'EnergyTransportationExchange'
+include 'web-api'
+include 'model'
+include 'rest'
+include 'repository'
+

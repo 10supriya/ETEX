@@ -1,0 +1,7 @@
+dependencies {
+    //    Dependency for Postgresql Database
+    implementation 'org.postgresql:postgresql'
+    //    Dependency for H2 Database
+    runtimeOnly 'com.h2database:h2:1.4.197'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+}
